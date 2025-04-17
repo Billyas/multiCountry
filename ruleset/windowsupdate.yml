@@ -1,0 +1,10 @@
+# Windows 更新核心域名
+DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,download.microsoft.com
+DOMAIN-SUFFIX,delivery.mp.microsoft.com
+
+# 统计与验证
+DOMAIN-SUFFIX,wustat.windows.com
+DOMAIN-SUFFIX,ctldl.windowsupdate.com
